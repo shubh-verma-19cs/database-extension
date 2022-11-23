@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hivemq-extension>
+    <id>database-extension</id>
+    <version>1.0-SNAPSHOT</version>
+    <name>HiveMQ Database Extension</name>
+    <author>Shubh Verma</author>
+    <priority>0</priority>
+    <start-priority>1000</start-priority>
+</hivemq-extension>
